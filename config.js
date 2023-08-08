@@ -12,5 +12,4 @@ console.warn("something worng")
 console.log("conectted")
         }
     })
-
-    // module .exports=con;
+ module.exports=con;
